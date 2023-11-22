@@ -7,7 +7,7 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "react-native-job-search-app",
-    "slug": "react-native-job-search-app"
+    "name": "job-search-mobileapp",
+    "slug": "job-search-mobileapp"
   }
 }
